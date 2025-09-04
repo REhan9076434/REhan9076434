@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Yusuf Raihan</h1>
-<h3 align="center">A passionate frontend developer fron indonesia</h3>
+<h3 align="center">A passionate frontend developer from indonesia</h3>
 
 - 💬 Ask me about **react js**
 
